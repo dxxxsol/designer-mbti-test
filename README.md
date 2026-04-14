@@ -12,6 +12,11 @@
 
     > 提示：进入页面后，请输入上方激活码以解锁测评权限。
 
+🖥️ 网页截图
+
+<img width="2880" height="1530" alt="image" src="https://github.com/user-attachments/assets/7d3ee2e7-7db6-4f82-ac55-21fe0d84253b" />
+<img width="2880" height="1530" alt="image" src="https://github.com/user-attachments/assets/dab35c73-3d0c-4e21-9f41-d7de5fa29865" />
+
 
 📝 测评说明
 
